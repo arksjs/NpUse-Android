@@ -15,7 +15,7 @@ repositories {
 ### 2. 需要依赖的 module 的 `build.gradle` 添加依赖
 
 ```gradle
-implementation 'com.github.arksjs:NpUse:v1.2.2'
+implementation 'com.github.arksjs:NpUse:v1.3.0'
 ```
 
 ## 集成
